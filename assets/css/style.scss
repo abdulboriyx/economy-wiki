@@ -1,0 +1,171 @@
+---
+---
+
+@import "minima";
+
+// ============================================================
+// BASE TYPOGRAPHY
+// ============================================================
+
+body {
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+// ============================================================
+// LAYOUT — single-column, max readable width, centered
+// ============================================================
+
+.wrapper {
+  max-width: 800px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 1.5rem;
+  padding-left: 1.5rem;
+  box-sizing: border-box;
+}
+
+.page-content {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+// ============================================================
+// NAVIGATION — minimum 44px tap targets
+// ============================================================
+
+.site-nav .page-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+// ============================================================
+// TABLES — horizontal scroll on mobile, no overflow clipping
+// ============================================================
+
+table {
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border-collapse: collapse;
+  width: 100%;
+
+  th,
+  td {
+    padding: 0.5rem 0.75rem;
+    border: 1px solid #d1d5da;
+    text-align: left;
+  }
+
+  th {
+    background-color: #f6f8fa;
+    font-weight: 600;
+  }
+}
+
+// ============================================================
+// CODE BLOCKS — horizontal scroll, no wrapping
+// ============================================================
+
+pre {
+  overflow-x: auto;
+  white-space: pre;
+  padding: 1rem;
+  border-radius: 4px;
+  font-size: 0.9em;
+  line-height: 1.5;
+}
+
+code {
+  font-size: 0.9em;
+}
+
+p code,
+li code {
+  white-space: nowrap;
+}
+
+// ============================================================
+// DARK MODE
+// ============================================================
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #0d1117;
+    color: #c9d1d9;
+  }
+
+  a {
+    color: #58a6ff;
+
+    &:visited {
+      color: #a371f7;
+    }
+
+    &:hover {
+      color: #79c0ff;
+    }
+  }
+
+  .site-header {
+    background-color: #161b22;
+    border-bottom-color: #30363d;
+  }
+
+  .site-title,
+  .site-title:visited {
+    color: #f0f6fc;
+  }
+
+  .site-nav .page-link {
+    color: #c9d1d9;
+
+    &:hover {
+      color: #f0f6fc;
+    }
+  }
+
+  .site-footer {
+    background-color: #161b22;
+    border-top-color: #30363d;
+    color: #8b949e;
+  }
+
+  pre {
+    background-color: #161b22;
+    border: 1px solid #30363d;
+    color: #c9d1d9;
+  }
+
+  code {
+    background-color: rgba(110, 118, 129, 0.2);
+    color: #c9d1d9;
+  }
+
+  pre code {
+    background-color: transparent;
+  }
+
+  table {
+    th {
+      background-color: #161b22;
+      border-color: #30363d;
+    }
+
+    td {
+      border-color: #30363d;
+    }
+  }
+
+  blockquote {
+    color: #8b949e;
+    border-left-color: #30363d;
+  }
+
+  hr {
+    border-color: #30363d;
+  }
+}

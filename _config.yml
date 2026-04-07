@@ -1,0 +1,18 @@
+title: "Economy Wiki"
+description: "A structured knowledge base of economic theories, concepts, models, debates, and economists."
+baseurl: ""
+url: ""
+
+theme: minima
+
+header_pages:
+  - index.md
+
+plugins:
+  - jekyll-feed
+
+exclude:
+  - AGENTS.md
+  - log.md
+  - README.md
+  - raw/
