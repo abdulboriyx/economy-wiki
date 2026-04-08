@@ -13,3 +13,22 @@ Pages created:
 - `wiki/concepts/productive-vs-unproductive-labour.md`
 - `wiki/theories/comparative-advantage.md` — Ricardo (referenced by Smith's trade theory)
 - `wiki/debates/mercantilism-vs-free-trade.md`
+
+## [2026-04-08] ingest | The General Theory of Employment, Interest and Money
+
+**Source:** John Maynard Keynes (1936) — `raw/keynes.pdf`
+
+Pages created:
+- `wiki/sources/general-theory.md` — full source summary
+- `wiki/economists/john-maynard-keynes.md` — economist profile
+- `wiki/theories/effective-demand.md`
+- `wiki/theories/keynesian-multiplier.md`
+- `wiki/concepts/liquidity-preference.md`
+- `wiki/concepts/involuntary-unemployment.md`
+- `wiki/debates/classical-vs-keynesian.md`
+- `wiki/models/ad-as-model.md`
+
+Pages updated:
+- `wiki/economists/adam-smith.md` (cross-linked to Keynes)
+- `wiki/theories/invisible-hand.md` (cross-linked to Keynesian debate)
+- `index.md`

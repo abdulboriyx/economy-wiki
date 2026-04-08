@@ -15,3 +15,12 @@ Smith's work established economics as an independent discipline. His ideas deepl
 
 ## Criticisms
 Critics, particularly from Marxist and heterodox schools, argue that Smith's system overlooks class conflict and the exploitative nature of capitalist property relations. Furthermore, his reliance on the "invisible hand" is criticized for ignoring market failures, externalities, and the necessity of state intervention to ensure equitable outcomes. His [Productive vs Unproductive Labour](../concepts/productive-vs-unproductive-labour.md) distinction is largely rejected by modern economists.
+
+Later Keynesian economists, led by [John Maynard Keynes](john-maynard-keynes.md), challenged the Smithian view that markets are always self-correcting, arguing that economies can get stuck in an under-employment equilibrium without government intervention.
+
+## Links to related wiki pages
+- [The Wealth of Nations](../sources/wealth-of-nations.md)
+- [Invisible Hand](../theories/invisible-hand.md)
+- [Division of Labour](../theories/division-of-labour.md)
+- [Absolute Advantage](../theories/absolute-advantage.md)
+- [Classical vs Keynesian Debate](../debates/classical-vs-keynesian.md)

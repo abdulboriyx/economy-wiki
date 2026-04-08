@@ -23,3 +23,4 @@ Mixed. While markets are highly efficient at distributing goods and services and
 - [*The Wealth of Nations*](../sources/wealth-of-nations.md)
 - [Division of Labour](division-of-labour.md)
 - [Natural vs Market Price](../concepts/natural-vs-market-price.md)
+- [Classical vs Keynesian Debate](../debates/classical-vs-keynesian.md)
